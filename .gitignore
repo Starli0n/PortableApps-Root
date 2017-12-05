@@ -1,0 +1,25 @@
+# Linked files and folders
+.MacOSX
+.gitconfig
+.bashrc
+
+# PortableApps folders
+Documents
+PortableApps
+
+# PortableApps files
+Start.exe
+Autorun.inf
+
+# Home folders
+.ssh
+AppData
+Desktop
+Downloads
+Sources
+Tools/*
+!Tools/Bat
+
+# Others
+.bash_history
+.viminfo
