@@ -15,7 +15,10 @@ Add manually other folders like `Sources` or `Tools`
 
 * `PortableApps` starts PortableApps launcher
 
-* Execute `Tools/Bat/.Link.cmd` to add symbolic links
+* Clone [dotfiles](https://github.com/Starli0n/dotfiles) into `Sources\dotfiles`
+	* `make win-export`
+
+* Execute `Tools/Bat/.Link.cmd` to add symbolic links (**DEPRECATED** _use dotfiles project instead_)
 
 ### Non PortableApps
 

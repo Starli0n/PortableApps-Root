@@ -1,7 +1,25 @@
-# Linked files and folders
-.MacOSX
-.gitconfig
+# Dotfiles
+.bash_history
+.bash_profile
 .bashrc
+.config
+.dockerfunc
+.extra
+.gitconfig
+.gitools.sh
+.MacOSX
+.npmrc
+.oh-my-zsh/
+.pip
+.profile
+.shell_zsh.sh
+.shell_zsh_sesu.sh
+.ssh
+.starrc
+.viminfo
+.vimrc
+.zshrc
+pip
 
 # PortableApps folders
 Documents
@@ -12,14 +30,11 @@ Start.exe
 Autorun.inf
 
 # Home folders
-.ssh
 AppData
+apps
 Desktop
 Downloads
+Favorites
 Sources
 Tools/*
 !Tools/Bat
-
-# Others
-.bash_history
-.viminfo

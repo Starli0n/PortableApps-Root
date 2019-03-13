@@ -21,5 +21,5 @@ set ConEmuExe=ConEmu64.exe
 set XDEBUG_SESSION=sublime.xdebug
 
 set UPATH=%PATH%
-set PPATH=%TOOLS%\System;%SUBL_ROOT%\Data\Packages\User\Resources\Windows\bin;%GIT_INSTALL_ROOT%\bin
+set PPATH=%TOOLS%\System;%SUBL_ROOT%;%SUBL_ROOT%\Data\Packages\User\Resources\Windows\bin;%GIT_INSTALL_ROOT%\bin
 set PATH=%PATH%;%PPATH%
